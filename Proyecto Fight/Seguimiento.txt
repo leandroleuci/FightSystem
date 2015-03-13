@@ -1,0 +1,47 @@
+Fight Versión 1.0
+
+
+Puntuacion en Color Blanco (Color utilizado en todos los tableros de combates)
+Puntaje parpadeante cuando suma valor.
+
+PROBAR - Porque falla el joystick Gris
+
+Manejo de errores
+		OK Crear clase para registro de log en txt del path del ejecutable
+
+FIN -> Deploy en PEN - hacerlo con el bin y ofuscar - meter el XML de Parametrizacion en el mismo directorio del ejecturable
+	Problema de ejecucion (instalar dotnetfx2.0 )
+-------------------------------------------------------OK --------------------------------------------------------
+OK - Algoritomo Votos NO funciona en puntaciones exactas (todos votaron lo mismo :S )
+OK - Manejo de multiples joystick
+OK - Eventos MaxDifPuntos y MaxFaltas
+OK - falta suma puntaje al contrario
+OK - Location de faltas y puntos, cuando es mayor que 10 se suporpone con otros controles... modificar locartions
+OK - Agregar seguridad contra PENDRIVE
+OK - Algoritmo de puntos
+OK - Alargar Cables -> 	14 mts x 1  ->	8  mts x 2
+OK - Pintar joysticks x4
+OK - Hub USB
+OK - Resaltar Luchador Ganador
+OK - Poder editar el nombre de los luchadores
+OK - Acoplar eventos joystick con clases de "Votacion"
+OK - Diseño
+OK - reinicio de medias faltas
+OK - Agregar info contacto al tablero -> Contacto: tablero.pelea@gmail.com
+OK - FrmBienvenida
+OK - agregar exe para probar Joysticks
+OK - Poner en la pantalla de bienvenida la resolución optima de la app 1024x768
+OK - Aprendizaje - OFUSCAR Codfigo EXE. Abrir exe del Bin.
+OK - Parametrizacion	
+	lectura y actualizacion (nuevos datos y reseteo) de xml
+	falta acoplarlo
+	falta validaciones de datos para formulario de parametrizacion (se agrego nud, mtxt, chk)
+	
+OK - Relojes superpuestos no dejan ver el puntaje
+NA - Puntaje mas contrastantes(fondo mas oscuro y numeros blancos)
+OK - Poder quitar falta (quit falta y resta punto sumado al contrario)
+OK - Poder identificar el cronometro superpuesto en tipo descanso, agregar un titulo o algo
+OK - agregar sonido a los eventos (Fin Round/Pelea, Fin Descanso, Fin Tiempo Médico)
+
+
+	

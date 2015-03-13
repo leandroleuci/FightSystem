@@ -1,0 +1,32 @@
+Varias artes marciales
+	Reglamento  
+				TKD
+				Boxeo
+				Kun Fu
+				Karate	
+				
+Algorito de encriptacion
+		DES
+			Ver de conseguir el 3DES
+			Clave = NombreMaquina + KEY
+
+Log
+	Archivo XML (q no se sobreescriba por cambio de version), que guarde las peleas 
+		controladas por el sistema
+		
+Config
+	XML
+		Rounds
+		Tiempo por round
+		Tiempo descanso
+		Tiempo médico
+		Puntuacion pechera
+		Puntuacion casco
+		Valor falta
+		Valor media falta
+		Max	puntaje para ganar, Neto SI/NO
+		Max faltas para perder
+		Punto Oro /	Alargue
+		
+		
+				

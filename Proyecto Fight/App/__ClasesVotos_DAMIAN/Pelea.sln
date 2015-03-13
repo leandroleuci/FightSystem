@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataque", "Pelea\Ataque.csproj", "{DBAB766D-81C8-447E-A450-0F5F88E19CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Votos", "Votos\Votos.csproj", "{C735A812-40F5-46C9-BE0A-8CF791B21D88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBAB766D-81C8-447E-A450-0F5F88E19CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAB766D-81C8-447E-A450-0F5F88E19CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAB766D-81C8-447E-A450-0F5F88E19CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAB766D-81C8-447E-A450-0F5F88E19CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C735A812-40F5-46C9-BE0A-8CF791B21D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C735A812-40F5-46C9-BE0A-8CF791B21D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C735A812-40F5-46C9-BE0A-8CF791B21D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C735A812-40F5-46C9-BE0A-8CF791B21D88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

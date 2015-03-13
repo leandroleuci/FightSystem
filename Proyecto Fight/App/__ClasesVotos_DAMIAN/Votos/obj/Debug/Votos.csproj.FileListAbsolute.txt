@@ -1,0 +1,32 @@
+D:\AppVs2008\Pelea\Votos\obj\Debug\ResolveAssemblyReference.cache
+D:\AppVs2008\Pelea\Votos\obj\Debug\Votos.Properties.Resources.resources
+D:\AppVs2008\Pelea\Votos\obj\Debug\Votos.PruebaVotos.resources
+D:\AppVs2008\Pelea\Votos\obj\Debug\Votos.csproj.GenerateResource.Cache
+D:\AppVs2008\Pelea\Votos\bin\Debug\Votos.exe
+D:\AppVs2008\Pelea\Votos\bin\Debug\Votos.pdb
+D:\AppVs2008\Pelea\Votos\obj\Debug\Votos.exe
+D:\AppVs2008\Pelea\Votos\obj\Debug\Votos.pdb
+D:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Votos\obj\Debug\Votos.exe
+D:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Votos\obj\Debug\Votos.pdb
+D:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Votos\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Votos\obj\Debug\Votos.Properties.Resources.resources
+D:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Votos\obj\Debug\Votos.PruebaVotos.resources
+D:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Votos\obj\Debug\Votos.csproj.GenerateResource.Cache
+D:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Votos\bin\Debug\Votos.exe
+D:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Votos\bin\Debug\Votos.pdb
+G:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Votos\obj\Debug\Votos.exe
+G:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Votos\obj\Debug\Votos.pdb
+G:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Votos\bin\Debug\Votos.exe
+G:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Votos\bin\Debug\Votos.pdb
+G:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Votos\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Votos\obj\Debug\Votos.Properties.Resources.resources
+G:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Votos\obj\Debug\Votos.PruebaVotos.resources
+G:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Votos\obj\Debug\Votos.csproj.GenerateResource.Cache
+D:\Proyecto Fight\App\ClasesVotos_DAMIAN\Votos\obj\Debug\Votos.exe
+D:\Proyecto Fight\App\ClasesVotos_DAMIAN\Votos\obj\Debug\Votos.pdb
+D:\Proyecto Fight\App\ClasesVotos_DAMIAN\Votos\bin\Debug\Votos.exe
+D:\Proyecto Fight\App\ClasesVotos_DAMIAN\Votos\bin\Debug\Votos.pdb
+D:\Proyecto Fight\App\ClasesVotos_DAMIAN\Votos\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto Fight\App\ClasesVotos_DAMIAN\Votos\obj\Debug\Votos.Properties.Resources.resources
+D:\Proyecto Fight\App\ClasesVotos_DAMIAN\Votos\obj\Debug\Votos.PruebaVotos.resources
+D:\Proyecto Fight\App\ClasesVotos_DAMIAN\Votos\obj\Debug\Votos.csproj.GenerateResource.Cache

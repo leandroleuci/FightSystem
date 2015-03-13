@@ -1,0 +1,16 @@
+Key.bat en directorio raiz
+
+Codigo Ofuscado
+
+Ejecutables y un clik once del Tablero (para instacion  en SO pelados)
+
+Eventos:
+	pNombreRojo_MouseDown (para cambiar los nombres)
+	pNombreAzul_MouseDown (para cambiar los nombres)
+	Tablero_DoubleClick (abre configuracion)
+	
+	Faltas:
+		pbFalta_Izq_MouseDown
+		pbFalta_Der_MouseDown
+		pbMediaFalta_Izq_MouseDown
+		pbMediaFalta_Der_MouseDown

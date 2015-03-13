@@ -1,0 +1,8 @@
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebaPuntaje\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebaPuntaje\obj\Debug\PruebaPuntaje.Form1.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebaPuntaje\obj\Debug\PruebaPuntaje.Properties.Resources.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebaPuntaje\obj\Debug\PruebaPuntaje.csproj.GenerateResource.Cache
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebaPuntaje\bin\Debug\PruebaPuntaje.exe
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebaPuntaje\bin\Debug\PruebaPuntaje.pdb
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebaPuntaje\obj\Debug\PruebaPuntaje.exe
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebaPuntaje\obj\Debug\PruebaPuntaje.pdb

@@ -1,0 +1,14 @@
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\examples\SdlDotNetCDPlayer\bin\Debug\SdlDotNetCDPlayer.exe
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\examples\SdlDotNetCDPlayer\bin\Debug\SdlDotNetCDPlayer.pdb
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\examples\SdlDotNetCDPlayer\bin\Debug\SdlDotNet.dll
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\examples\SdlDotNetCDPlayer\bin\Debug\Tao.Sdl.dll
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\examples\SdlDotNetCDPlayer\bin\Debug\SdlDotNet.pdb
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\examples\SdlDotNetCDPlayer\bin\Debug\SdlDotNet.xml
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\examples\SdlDotNetCDPlayer\bin\Debug\Tao.Sdl.xml
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\examples\SdlDotNetCDPlayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\examples\SdlDotNetCDPlayer\obj\Debug\SdlDotNetExamples.CDPlayer.App.ico
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\examples\SdlDotNetCDPlayer\obj\Debug\SdlDotNetExamples.CDPlayer.CDPlayerApp.resources
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\examples\SdlDotNetCDPlayer\obj\Debug\SdlDotNetExamples.CDPlayer.Properties.Resources.resources
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\examples\SdlDotNetCDPlayer\obj\Debug\SdlDotNetCDPlayer.csproj.GenerateResource.Cache
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\examples\SdlDotNetCDPlayer\obj\Debug\SdlDotNetCDPlayer.exe
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\examples\SdlDotNetCDPlayer\obj\Debug\SdlDotNetCDPlayer.pdb

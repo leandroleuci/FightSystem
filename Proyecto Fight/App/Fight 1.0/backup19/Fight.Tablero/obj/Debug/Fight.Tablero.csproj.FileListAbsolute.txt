@@ -1,0 +1,64 @@
+D:\AppVs2008\Fight\Fight.Tablero\bin\Debug\Fight.Tablero.exe
+D:\AppVs2008\Fight\Fight.Tablero\bin\Debug\Fight.Tablero.pdb
+D:\AppVs2008\Fight\Fight.Tablero\obj\Debug\ResolveAssemblyReference.cache
+D:\AppVs2008\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.Properties.Resources.resources
+D:\AppVs2008\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.csproj.GenerateResource.Cache
+D:\AppVs2008\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.exe
+D:\AppVs2008\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.pdb
+D:\AppVs2008\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.Formularios.Tablero.resources
+D:\AppVs2008\Fight\Fight.Tablero\obj\Debug\Fight.Controles.Cronometro.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.exe
+G:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.pdb
+G:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Fight.Tablero.exe
+G:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Fight.Tablero.pdb
+G:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Controles.Cronometro.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.Formularios.Tablero.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.Properties.Resources.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.csproj.GenerateResource.Cache
+G:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.Formularios.CronometroSuperpuesto.resources
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\ResolveAssemblyReference.cache
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Controles.Cronometro.resources
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.Formularios.AboutBox1.resources
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.Formularios.CambiarNombre.resources
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.Formularios.CronometroSuperpuesto.resources
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.Formularios.Parametrizacion.resources
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.Formularios.Tablero.resources
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.Properties.Resources.resources
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.csproj.GenerateResource.Cache
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Fight.Tablero.exe.config
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.exe
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.pdb
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Controles.Cronometro.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.Formularios.AboutBox1.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.Formularios.CambiarNombre.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.Formularios.CronometroSuperpuesto.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.Formularios.Parametrizacion.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.Formularios.Tablero.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.Properties.Resources.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.csproj.GenerateResource.Cache
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Fight.Tablero.exe.config
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Fight.Tablero.exe.manifest
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Fight.Tablero.application
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Fight.Tablero.exe
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Fight.Tablero.pdb
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Microsoft.DirectX.Diagnostics.dll
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Microsoft.DirectX.DirectDraw.dll
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Microsoft.DirectX.DirectInput.dll
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Microsoft.DirectX.DirectPlay.dll
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Microsoft.DirectX.DirectSound.dll
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Microsoft.DirectX.dll
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.exe.manifest
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.application
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.exe
+D:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.pdb
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Fight.Tablero.exe.manifest
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Fight.Tablero.application
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Fight.Tablero.exe
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\bin\Debug\Fight.Tablero.pdb
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.exe.manifest
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.Tablero\obj\Debug\Fight.Tablero.application

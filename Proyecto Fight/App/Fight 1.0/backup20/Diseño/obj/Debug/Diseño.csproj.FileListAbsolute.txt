@@ -1,0 +1,16 @@
+G:\Proyecto Fight\App\Fight 1.0\Fight\Diseño\bin\Debug\Diseño.exe
+G:\Proyecto Fight\App\Fight 1.0\Fight\Diseño\bin\Debug\Diseño.pdb
+G:\Proyecto Fight\App\Fight 1.0\Fight\Diseño\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto Fight\App\Fight 1.0\Fight\Diseño\obj\Debug\Diseño.Tablero.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\Diseño\obj\Debug\Diseño.csproj.GenerateResource.Cache
+G:\Proyecto Fight\App\Fight 1.0\Fight\Diseño\obj\Debug\Diseño.exe
+G:\Proyecto Fight\App\Fight 1.0\Fight\Diseño\obj\Debug\Diseño.pdb
+D:\Proyecto Fight\App\Fight 1.0\Fight\Diseño\obj\Debug\Diseño.exe
+D:\Proyecto Fight\App\Fight 1.0\Fight\Diseño\obj\Debug\Diseño.pdb
+D:\Proyecto Fight\App\Fight 1.0\Fight\Diseño\bin\Debug\Diseño.exe
+D:\Proyecto Fight\App\Fight 1.0\Fight\Diseño\bin\Debug\Diseño.pdb
+D:\Proyecto Fight\App\Fight 1.0\Fight\Diseño\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto Fight\App\Fight 1.0\Fight\Diseño\obj\Debug\Diseño.Tablero.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\Diseño\obj\Debug\Diseño.csproj.GenerateResource.Cache

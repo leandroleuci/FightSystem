@@ -1,0 +1,10 @@
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebasVisualBasic\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebasVisualBasic\obj\Debug\PruebasVisualBasic.Form1.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebasVisualBasic\obj\Debug\PruebasVisualBasic.Resources.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebasVisualBasic\obj\Debug\PruebasVisualBasic.vbproj.GenerateResource.Cache
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebasVisualBasic\bin\Debug\PruebasVisualBasic.exe
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebasVisualBasic\bin\Debug\PruebasVisualBasic.pdb
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebasVisualBasic\bin\Debug\PruebasVisualBasic.xml
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebasVisualBasic\obj\Debug\PruebasVisualBasic.exe
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebasVisualBasic\obj\Debug\PruebasVisualBasic.xml
+G:\Proyecto Fight\App\Fight 1.0\Fight\PruebasVisualBasic\obj\Debug\PruebasVisualBasic.pdb

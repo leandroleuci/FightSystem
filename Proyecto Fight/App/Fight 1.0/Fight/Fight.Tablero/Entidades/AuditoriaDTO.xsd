@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AuditoriaDTO" targetNamespace="http://tempuri.org/AuditoriaDTO.xsd" xmlns:mstns="http://tempuri.org/AuditoriaDTO.xsd" xmlns="http://tempuri.org/AuditoriaDTO.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="AuditoriaDTO" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="AuditoriaDTO" msprop:Generator_DataSetName="AuditoriaDTO" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="AuditoriaDT" msprop:Generator_UserTableName="AuditoriaDT" msprop:Generator_RowDeletedName="AuditoriaDTRowDeleted" msprop:Generator_RowChangedName="AuditoriaDTRowChanged" msprop:Generator_RowClassName="AuditoriaDTRow" msprop:Generator_RowChangingName="AuditoriaDTRowChanging" msprop:Generator_RowEvArgName="AuditoriaDTRowChangeEvent" msprop:Generator_RowEvHandlerName="AuditoriaDTRowChangeEventHandler" msprop:Generator_TableClassName="AuditoriaDTDataTable" msprop:Generator_TableVarName="tableAuditoriaDT" msprop:Generator_RowDeletingName="AuditoriaDTRowDeleting" msprop:Generator_TablePropName="AuditoriaDT">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FechaHora" msprop:Generator_UserColumnName="FechaHora" msprop:Generator_ColumnPropNameInRow="FechaHora" msprop:Generator_ColumnVarNameInTable="columnFechaHora" msprop:Generator_ColumnPropNameInTable="FechaHoraColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Evento" msprop:Generator_UserColumnName="Evento" msprop:Generator_ColumnPropNameInRow="Evento" msprop:Generator_ColumnVarNameInTable="columnEvento" msprop:Generator_ColumnPropNameInTable="EventoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="N_x00BA_Round" msprop:Generator_UserColumnName="NºRound" msprop:Generator_ColumnPropNameInRow="NºRound" msprop:Generator_ColumnVarNameInTable="columnNºRound" msprop:Generator_ColumnPropNameInTable="NºRoundColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="NomLuchadorRojo" msprop:Generator_UserColumnName="NomLuchadorRojo" msprop:Generator_ColumnVarNameInTable="columnNomLuchadorRojo" msprop:Generator_ColumnPropNameInRow="NomLuchadorRojo" msprop:Generator_ColumnPropNameInTable="NomLuchadorRojoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PuntuacionTotalRojo" msprop:Generator_UserColumnName="PuntuacionTotalRojo" msprop:Generator_ColumnVarNameInTable="columnPuntuacionTotalRojo" msprop:Generator_ColumnPropNameInRow="PuntuacionTotalRojo" msprop:Generator_ColumnPropNameInTable="PuntuacionTotalRojoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FaltasRojo" msprop:Generator_UserColumnName="FaltasRojo" msprop:Generator_ColumnVarNameInTable="columnFaltasRojo" msprop:Generator_ColumnPropNameInRow="FaltasRojo" msprop:Generator_ColumnPropNameInTable="FaltasRojoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="NomLuchadorAzul" msprop:Generator_UserColumnName="NomLuchadorAzul" msprop:Generator_ColumnVarNameInTable="columnNomLuchadorAzul" msprop:Generator_ColumnPropNameInRow="NomLuchadorAzul" msprop:Generator_ColumnPropNameInTable="NomLuchadorAzulColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PuntuacionTotalAzul" msprop:Generator_UserColumnName="PuntuacionTotalAzul" msprop:Generator_ColumnVarNameInTable="columnPuntuacionTotalAzul" msprop:Generator_ColumnPropNameInRow="PuntuacionTotalAzul" msprop:Generator_ColumnPropNameInTable="PuntuacionTotalAzulColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FaltasAzul" msprop:Generator_UserColumnName="FaltasAzul" msprop:Generator_ColumnVarNameInTable="columnFaltasAzul" msprop:Generator_ColumnPropNameInRow="FaltasAzul" msprop:Generator_ColumnPropNameInTable="FaltasAzulColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="VotoJuez1_Rojo" msprop:Generator_UserColumnName="VotoJuez1_Rojo" msprop:Generator_ColumnVarNameInTable="columnVotoJuez1_Rojo" msprop:Generator_ColumnPropNameInRow="VotoJuez1_Rojo" msprop:Generator_ColumnPropNameInTable="VotoJuez1_RojoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="VotoJuez1_Azul" msprop:Generator_UserColumnName="VotoJuez1_Azul" msprop:Generator_ColumnVarNameInTable="columnVotoJuez1_Azul" msprop:Generator_ColumnPropNameInRow="VotoJuez1_Azul" msprop:Generator_ColumnPropNameInTable="VotoJuez1_AzulColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="VotoJuez2_Rojo" msprop:Generator_UserColumnName="VotoJuez2_Rojo" msprop:Generator_ColumnVarNameInTable="columnVotoJuez2_Rojo" msprop:Generator_ColumnPropNameInRow="VotoJuez2_Rojo" msprop:Generator_ColumnPropNameInTable="VotoJuez2_RojoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="VotoJuez2_Azul" msprop:Generator_UserColumnName="VotoJuez2_Azul" msprop:Generator_ColumnVarNameInTable="columnVotoJuez2_Azul" msprop:Generator_ColumnPropNameInRow="VotoJuez2_Azul" msprop:Generator_ColumnPropNameInTable="VotoJuez2_AzulColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="VotoJuez3_Rojo" msprop:Generator_UserColumnName="VotoJuez3_Rojo" msprop:Generator_ColumnVarNameInTable="columnVotoJuez3_Rojo" msprop:Generator_ColumnPropNameInRow="VotoJuez3_Rojo" msprop:Generator_ColumnPropNameInTable="VotoJuez3_RojoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="VotoJuez3_Azul" msprop:Generator_UserColumnName="VotoJuez3_Azul" msprop:Generator_ColumnVarNameInTable="columnVotoJuez3_Azul" msprop:Generator_ColumnPropNameInRow="VotoJuez3_Azul" msprop:Generator_ColumnPropNameInTable="VotoJuez3_AzulColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="VotoJuez4_Rojo" msprop:Generator_UserColumnName="VotoJuez4_Rojo" msprop:Generator_ColumnVarNameInTable="columnVotoJuez4_Rojo" msprop:Generator_ColumnPropNameInRow="VotoJuez4_Rojo" msprop:Generator_ColumnPropNameInTable="VotoJuez4_RojoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="VotoJuez4_Azul" msprop:Generator_UserColumnName="VotoJuez4_Azul" msprop:Generator_ColumnVarNameInTable="columnVotoJuez4_Azul" msprop:Generator_ColumnPropNameInRow="VotoJuez4_Azul" msprop:Generator_ColumnPropNameInTable="VotoJuez4_AzulColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="VotoRojo" msprop:Generator_UserColumnName="VotoRojo" msprop:Generator_ColumnVarNameInTable="columnVotoRojo" msprop:Generator_ColumnPropNameInRow="VotoRojo" msprop:Generator_ColumnPropNameInTable="VotoRojoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="VotoAzul" msprop:Generator_UserColumnName="VotoAzul" msprop:Generator_ColumnVarNameInTable="columnVotoAzul" msprop:Generator_ColumnPropNameInRow="VotoAzul" msprop:Generator_ColumnPropNameInTable="VotoAzulColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TiempoReloj" msprop:Generator_UserColumnName="TiempoReloj" msprop:Generator_ColumnPropNameInRow="TiempoReloj" msprop:Generator_ColumnVarNameInTable="columnTiempoReloj" msprop:Generator_ColumnPropNameInTable="TiempoRelojColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

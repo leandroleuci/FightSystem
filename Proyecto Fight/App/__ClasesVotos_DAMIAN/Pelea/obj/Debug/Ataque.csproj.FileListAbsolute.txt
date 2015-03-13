@@ -1,0 +1,15 @@
+D:\AppVs2008\Pelea\Pelea\bin\Debug\Pelea.dll
+D:\AppVs2008\Pelea\Pelea\bin\Debug\Pelea.pdb
+D:\AppVs2008\Pelea\Pelea\obj\Debug\ResolveAssemblyReference.cache
+D:\AppVs2008\Pelea\Pelea\obj\Debug\Pelea.dll
+D:\AppVs2008\Pelea\Pelea\obj\Debug\Pelea.pdb
+D:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Pelea\bin\Debug\Pelea.dll
+D:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Pelea\bin\Debug\Pelea.pdb
+D:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Pelea\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Pelea\obj\Debug\Pelea.dll
+D:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Pelea\obj\Debug\Pelea.pdb
+G:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Pelea\bin\Debug\Pelea.dll
+G:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Pelea\bin\Debug\Pelea.pdb
+G:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Pelea\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Pelea\obj\Debug\Pelea.dll
+G:\Proyecto Fight\App\Fight 1.0\ClasesVotos_DAMIAN\Pelea\obj\Debug\Pelea.pdb

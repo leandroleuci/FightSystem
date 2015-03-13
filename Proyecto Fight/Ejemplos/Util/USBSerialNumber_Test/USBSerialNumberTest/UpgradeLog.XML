@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="USBDriveSerialNumber">
+</Property><Property Name="Archivo de la solución" Value="G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\USBDriveSerialNumber.sln">
+</Property><Property Name="Date" Value="miércoles, 13 de octubre de 2010">
+</Property><Property Name="Time" Value="22:14:10">
+</Property></Properties><Event ErrorLevel="0" Project="USBDriveSerialNumber" Source="USBDriveSerialNumber.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\Backup\USBDriveSerialNumber.csproj">
+</Event><Event ErrorLevel="0" Project="USBDriveSerialNumber" Source="Form1.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="USBDriveSerialNumber" Source="Form1.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="USBDriveSerialNumber" Source="parser.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\Backup\parser.cs">
+</Event><Event ErrorLevel="0" Project="USBDriveSerialNumber" Source="Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="USBDriveSerialNumber" Source="Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="USBDriveSerialNumber" Source="Properties\Resources.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="USBDriveSerialNumber" Source="Properties\Settings.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="USBDriveSerialNumber" Source="USBSerialNumber.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\Backup\USBSerialNumber.cs">
+</Event><Event ErrorLevel="0" Project="USBDriveSerialNumber" Source="WindowsMessageFilter.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\Backup\WindowsMessageFilter.cs">
+</Event><Event ErrorLevel="0" Project="USBDriveSerialNumber" Source="Properties\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="USBDriveSerialNumber" Source="Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="USBDriveSerialNumber" Source="Properties\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="USBDriveSerialNumber" Source="USBDriveSerialNumber.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="USBDriveSerialNumber" Source="USBDriveSerialNumber.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="USBDriveSerialNumber" Source="USBDriveSerialNumber.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

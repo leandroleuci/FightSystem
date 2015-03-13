@@ -1,0 +1,1 @@
+http://www.cfdan.com/posts/Retrieving_Non-Volatile_USB_Serial_Number_Using_C_Sharp.cfm

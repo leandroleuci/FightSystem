@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tablero>
+  <TiempoMuerto>3</TiempoMuerto>
+  <CantVotosMin>3</CantVotosMin>
+  <ValPuntoA>1</ValPuntoA>
+  <ValPuntoB>2</ValPuntoB>
+  <ValPuntoC>3</ValPuntoC>
+  <CantRounds>2</CantRounds>
+  <TiempoRound>00:01:30</TiempoRound>
+  <PuntoOro>FALSE</PuntoOro>
+  <TiempoDescanso>00:01:00</TiempoDescanso>
+  <TiempoMedico>00:01:00</TiempoMedico>
+  <TiempoPuntoOro>00:01:00</TiempoPuntoOro>
+  <ValFalta>1</ValFalta>
+  <ValPuntacionManual>1</ValPuntacionManual>
+  <DifPuntos>99</DifPuntos>
+  <PuntuacionMax>99</PuntuacionMax>
+  <FaltasMax>99</FaltasMax>
+</tablero>

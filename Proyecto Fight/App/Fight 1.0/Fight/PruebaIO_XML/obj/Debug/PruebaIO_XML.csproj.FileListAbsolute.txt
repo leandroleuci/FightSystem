@@ -1,0 +1,8 @@
+D:\Proyecto Fight\App\Fight 1.0\Fight\PruebaIO_XML\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto Fight\App\Fight 1.0\Fight\PruebaIO_XML\obj\Debug\PruebaIO_XML.Form1.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\PruebaIO_XML\obj\Debug\PruebaIO_XML.Properties.Resources.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\PruebaIO_XML\obj\Debug\PruebaIO_XML.csproj.GenerateResource.Cache
+D:\Proyecto Fight\App\Fight 1.0\Fight\PruebaIO_XML\bin\Debug\PruebaIO_XML.exe
+D:\Proyecto Fight\App\Fight 1.0\Fight\PruebaIO_XML\bin\Debug\PruebaIO_XML.pdb
+D:\Proyecto Fight\App\Fight 1.0\Fight\PruebaIO_XML\obj\Debug\PruebaIO_XML.exe
+D:\Proyecto Fight\App\Fight 1.0\Fight\PruebaIO_XML\obj\Debug\PruebaIO_XML.pdb

@@ -1,0 +1,22 @@
+CDPlayer.exe:
+	mkdir -p examples/CDPlayer/$(BUILD_DIR)/$(CONFIG)/
+	resgen examples/CDPlayer/CDPlayerApp.resx examples/CDPlayer/SdlDotNetExamples.CDPlayer.CDPlayerApp.resources
+	resgen examples/CDPlayer/Properties/Resources.resx examples/CDPlayer/SdlDotNetExamples.CDPlayer.Properties/Resources.resources
+	$(CSC)	/out:examples/CDPlayer/$(BUILD_DIR)/$(CONFIG)/CDPlayer.exe \
+		/target:winexe \
+		/reference:System.dll,System.Drawing.dll,System.Windows.Forms.dll,../SdlDotNet/src/$(BUILD_DIR)/$(CONFIG)/SdlDotNet.dll \
+		/resource:examples/CDPlayer/App.ico \
+		/resource:examples/CDPlayer/SdlDotNetExamples.CDPlayer.CDPlayerApp.resources,SdlDotNetExamples.CDPlayer.CDPlayerApp.resources \
+		/resource:examples/CDPlayer/Properties/Resources.resx \
+		/keyfile:examples/CDPlayer/../../src/SdlDotNet.snk \
+		/win32icon:examples/CDPlayer/App.ico \
+		/define:DEBUG,TRACE,CODE_ANALYSIS \
+		\
+		examples\\CDPlayer\\CDPlayerApp.cs		\
+		examples\\CDPlayer\\BounceSprite.cs		\
+		examples\\CDPlayer\\CDPlayerApp.Designer.cs		\
+		examples\\CDPlayer\\Properties\\AssemblyInfo.cs
+
+CLEANFILES = $(BUILD_DIR)/$(CONFIG)/CDPlayer.exe $(BUILD_DIR)/$(CONFIG)/CDPlayer.mdb $(BUILD_DIR)/$(CONFIG)/CDPlayer.pdb CDPlayer.xml
+EXTRA_DIST = \
+	$(FILES) \	../../src/SdlDotNet.snk

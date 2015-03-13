@@ -1,0 +1,12 @@
+G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\obj\Debug\USBDriveSerialNumber.exe
+G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\obj\Debug\USBDriveSerialNumber.pdb
+G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\bin\Debug\USBDriveSerialNumber.exe
+G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\bin\Debug\USBDriveSerialNumber.pdb
+G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\obj\Debug\USBDriveSerialNumber.Form1.resources
+G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\obj\Debug\USBDriveSerialNumber.Properties.Resources.resources
+G:\Proyecto Fight\Ejemplos\Util\USBSerialNumberTest\obj\Debug\USBDriveSerialNumber.csproj.GenerateResource.Cache
+G:\Proyecto Fight\Ejemplos\Util\USBSerialNumber_Test\USBSerialNumberTest\obj\Debug\USBDriveSerialNumber.exe
+G:\Proyecto Fight\Ejemplos\Util\USBSerialNumber_Test\USBSerialNumberTest\obj\Debug\USBDriveSerialNumber.pdb
+F:\Proyecto Fight\Ejemplos\Util\USBSerialNumber_Test\USBSerialNumberTest\obj\Debug\USBDriveSerialNumber.exe
+F:\Proyecto Fight\Ejemplos\Util\USBSerialNumber_Test\USBSerialNumberTest\obj\Debug\USBDriveSerialNumber.pdb

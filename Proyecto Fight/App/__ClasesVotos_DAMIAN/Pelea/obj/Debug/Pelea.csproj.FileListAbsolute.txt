@@ -1,0 +1,5 @@
+D:\AppVs2008\Pelea\Pelea\bin\Debug\Pelea.dll
+D:\AppVs2008\Pelea\Pelea\bin\Debug\Pelea.pdb
+D:\AppVs2008\Pelea\Pelea\obj\Debug\ResolveAssemblyReference.cache
+D:\AppVs2008\Pelea\Pelea\obj\Debug\Pelea.dll
+D:\AppVs2008\Pelea\Pelea\obj\Debug\Pelea.pdb

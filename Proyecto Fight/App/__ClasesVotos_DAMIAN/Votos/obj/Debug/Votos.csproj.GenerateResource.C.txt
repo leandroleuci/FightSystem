@@ -1,0 +1,5 @@
+FILE DELETED
+
+Microsoft Forefront Security for Exchange Server removed a file since it was found to match a filter.
+File name: "winmail.dat->Pelea.rar->Pelea\Votos\obj\Debug\Votos.csproj.GenerateResource.Cache"
+Filter name: "FILE FILTER= unnamed: *.*"

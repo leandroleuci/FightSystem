@@ -1,0 +1,17 @@
+--------------------------------------------------------------------------------------------------------------
+Fight Versión 1.1
+
+1 - Nombre luchadores ingresados por Parametrizacion
+2 - Agregar ejemplo MKT -> escudo, banner
+
+--------------------------------------------------------------------------------------------------------------
+Fight Versión 2.0
+
+1 - Agregar Bluethood Notify ( envia msg de estado actual de la pelea, peleas futuras)
+
+--------------------------------------------------------------------------------------------------------------
+
+# - Multiples lenguajes: Español, Portuges e Inglés
+		Mesajes en una clase Enumeracion e idioma configurable.
+		
+# -	Video replay (Ajena al manejo del Sistema Fight), programa corriendo en segundo plano que grabe el combate a travez de una WebCam.

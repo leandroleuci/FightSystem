@@ -1,0 +1,16 @@
+D:\AppVs2008\Fight\TestJoystick\bin\Debug\TestJoystick.exe
+D:\AppVs2008\Fight\TestJoystick\bin\Debug\TestJoystick.pdb
+D:\AppVs2008\Fight\TestJoystick\obj\Debug\ResolveAssemblyReference.cache
+D:\AppVs2008\Fight\TestJoystick\obj\Debug\TestJoystick.Properties.Resources.resources
+D:\AppVs2008\Fight\TestJoystick\obj\Debug\TestJoystick.csproj.GenerateResource.Cache
+D:\AppVs2008\Fight\TestJoystick\obj\Debug\TestJoystick.exe
+D:\AppVs2008\Fight\TestJoystick\obj\Debug\TestJoystick.pdb
+D:\AppVs2008\Fight\TestJoystick\obj\Debug\TestJoystick.Form1.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\TestJoystick\bin\Debug\TestJoystick.exe
+G:\Proyecto Fight\App\Fight 1.0\Fight\TestJoystick\bin\Debug\TestJoystick.pdb
+G:\Proyecto Fight\App\Fight 1.0\Fight\TestJoystick\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto Fight\App\Fight 1.0\Fight\TestJoystick\obj\Debug\TestJoystick.Form1.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\TestJoystick\obj\Debug\TestJoystick.Properties.Resources.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\TestJoystick\obj\Debug\TestJoystick.csproj.GenerateResource.Cache
+G:\Proyecto Fight\App\Fight 1.0\Fight\TestJoystick\obj\Debug\TestJoystick.exe
+G:\Proyecto Fight\App\Fight 1.0\Fight\TestJoystick\obj\Debug\TestJoystick.pdb

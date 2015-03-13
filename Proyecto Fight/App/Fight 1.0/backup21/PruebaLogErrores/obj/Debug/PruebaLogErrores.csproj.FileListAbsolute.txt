@@ -1,0 +1,8 @@
+D:\Proyecto Fight\App\Fight 1.0\Fight\PruebaLogErrores\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto Fight\App\Fight 1.0\Fight\PruebaLogErrores\obj\Debug\PruebaLogErrores.Form1.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\PruebaLogErrores\obj\Debug\PruebaLogErrores.Properties.Resources.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\PruebaLogErrores\obj\Debug\PruebaLogErrores.csproj.GenerateResource.Cache
+D:\Proyecto Fight\App\Fight 1.0\Fight\PruebaLogErrores\bin\Debug\PruebaLogErrores.exe
+D:\Proyecto Fight\App\Fight 1.0\Fight\PruebaLogErrores\bin\Debug\PruebaLogErrores.pdb
+D:\Proyecto Fight\App\Fight 1.0\Fight\PruebaLogErrores\obj\Debug\PruebaLogErrores.exe
+D:\Proyecto Fight\App\Fight 1.0\Fight\PruebaLogErrores\obj\Debug\PruebaLogErrores.pdb

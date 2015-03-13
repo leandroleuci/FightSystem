@@ -1,0 +1,8 @@
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.JoystickTest\bin\Release\Fight.JoystickTest.exe
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.JoystickTest\bin\Release\Fight.JoystickTest.pdb
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.JoystickTest\obj\Release\ResolveAssemblyReference.cache
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.JoystickTest\obj\Release\Fight.JoystickTest.JoystickTest.resources
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.JoystickTest\obj\Release\Fight.JoystickTest.Properties.Resources.resources
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.JoystickTest\obj\Release\Fight.JoystickTest.csproj.GenerateResource.Cache
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.JoystickTest\obj\Release\Fight.JoystickTest.exe
+F:\Proyecto Fight\App\Fight 1.0\Fight\Fight.JoystickTest\obj\Release\Fight.JoystickTest.pdb

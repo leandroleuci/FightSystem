@@ -1,0 +1,36 @@
+D:\AppVs2008\Fight\Pruebas\obj\Debug\ResolveAssemblyReference.cache
+D:\AppVs2008\Fight\Pruebas\obj\Debug\Fight.WIN.Configuraciones.resources
+D:\AppVs2008\Fight\Pruebas\obj\Debug\Pruebas.Properties.Resources.resources
+D:\AppVs2008\Fight\Pruebas\obj\Debug\Fight.WIN.Pantallas.Tablero.resources
+D:\AppVs2008\Fight\Pruebas\obj\Debug\Fight.WIN.Controles.Timer.resources
+D:\AppVs2008\Fight\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.Cache
+D:\AppVs2008\Fight\Pruebas\bin\Debug\Pruebas.exe
+D:\AppVs2008\Fight\Pruebas\bin\Debug\Pruebas.pdb
+D:\AppVs2008\Fight\Pruebas\obj\Debug\Pruebas.exe
+D:\AppVs2008\Fight\Pruebas\obj\Debug\Pruebas.pdb
+D:\AppVs2008\Fight\Pruebas\obj\Debug\Pruebas.Cronometro.resources
+D:\AppVs2008\Fight\Pruebas\obj\Debug\Fight.Tablero.Form1.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\bin\Debug\Pruebas.exe
+G:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\bin\Debug\Pruebas.pdb
+G:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Fight.WIN.Configuraciones.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Pruebas.Cronometro.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Fight.Tablero.Form1.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Pruebas.Properties.Resources.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Fight.WIN.Pantallas.Tablero.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Fight.WIN.Controles.Timer.resources
+G:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.Cache
+G:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Pruebas.exe
+G:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Pruebas.pdb
+D:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\bin\Debug\Pruebas.exe
+D:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\bin\Debug\Pruebas.pdb
+D:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Fight.WIN.Configuraciones.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Pruebas.Cronometro.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Fight.Tablero.Form1.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Pruebas.Properties.Resources.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Fight.WIN.Pantallas.Tablero.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Fight.WIN.Controles.Timer.resources
+D:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.Cache
+D:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Pruebas.exe
+D:\Proyecto Fight\App\Fight 1.0\Fight\Pruebas\obj\Debug\Pruebas.pdb

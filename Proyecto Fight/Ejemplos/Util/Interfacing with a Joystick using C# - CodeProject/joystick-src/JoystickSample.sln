@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoystickSample", "JoystickSample\JoystickSample.csproj", "{94C0EC44-8BBF-411F-9C86-472CD1472FDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoystickInterface", "JoystickInterface\JoystickInterface.csproj", "{0D77953E-FD60-4824-A997-AF72E66EF8C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoystickTest", "Test1\JoystickTest.csproj", "{8A8CBB86-636F-4B1F-827E-104A5AB892CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariosJoystick", "VariosJoystick\VariosJoystick.csproj", "{B9BC089D-B89C-497F-A897-1E35120534EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C0EC44-8BBF-411F-9C86-472CD1472FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C0EC44-8BBF-411F-9C86-472CD1472FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C0EC44-8BBF-411F-9C86-472CD1472FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C0EC44-8BBF-411F-9C86-472CD1472FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D77953E-FD60-4824-A997-AF72E66EF8C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D77953E-FD60-4824-A997-AF72E66EF8C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D77953E-FD60-4824-A997-AF72E66EF8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D77953E-FD60-4824-A997-AF72E66EF8C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A8CBB86-636F-4B1F-827E-104A5AB892CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8CBB86-636F-4B1F-827E-104A5AB892CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8CBB86-636F-4B1F-827E-104A5AB892CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8CBB86-636F-4B1F-827E-104A5AB892CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9BC089D-B89C-497F-A897-1E35120534EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BC089D-B89C-497F-A897-1E35120534EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BC089D-B89C-497F-A897-1E35120534EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BC089D-B89C-497F-A897-1E35120534EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

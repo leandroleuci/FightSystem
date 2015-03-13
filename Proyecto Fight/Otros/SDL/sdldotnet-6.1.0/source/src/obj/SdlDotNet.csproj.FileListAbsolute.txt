@@ -1,0 +1,13 @@
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\src\bin\Debug\SdlDotNet.dll
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\src\bin\Debug\SdlDotNet.pdb
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\src\bin\Debug\SdlDotNet.xml
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\src\bin\Debug\Tao.Sdl.dll
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\src\bin\Debug\Tao.Sdl.xml
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\src\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\src\obj\Debug\SdlDotNet.Windows.SurfaceControl.bmp
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\src\obj\Debug\SdlDotNet.Graphics.Transparent.png
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\src\obj\Debug\SdlDotNet.Windows.SurfaceControl.resources
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\src\obj\Debug\SdlDotNet.Properties.Resources.resources
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\src\obj\Debug\SdlDotNet.csproj.GenerateResource.Cache
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\src\obj\Debug\SdlDotNet.dll
+G:\Proyecto Fight\Otros\sdldotnet-6.1.0\source\src\obj\Debug\SdlDotNet.pdb

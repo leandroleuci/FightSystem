@@ -1,0 +1,26 @@
+OK - 1 - 1 round
+OK - 2 - 2 rounds
+OK - 3 - 3 rounds
+OK - 4 - con Golden Point
+OK - 5 - Sin Golden Point
+OK - 6 - eventos = max puntos / max faltas / dif puntos
+OK - 7 - stop (reinicio de todo)
+OK - 8 - tiempo medico
+OK - 11 - quitar pen drive con app ejecutandose
+OK - 12 - abrir dos veces la app
+OK - 13 - ejecucion de la app en una pc sin Direct X ( q solo sea necesaria las DLL local del exe :) )
+OK - 14 - Unica ejecucion de la aplicacion
+OK - 15 - probar en Windows 7
+OK - 17 - Probar carga / actualizacion de parametros
+OK - 18 - lectura/actualizacion de XML abierto
+OK - 20 - Si el pen drive si quita mientras se esta ejecutando la app, que se cierre (para evitar multiples ejecuciones con el mismo pen drive)
+OK - Probar puntuacion perfecta
+OK - 21 - Puntuaciones de un único arbitro no deben ser consideradas
+	esta sumando puntuaciones de un unico arbitro
+	ej: presiones 2 veces un arbitro solo y marca 1 punto :S
+
+19 - Escritura de log de errores.
+
+PROBAR - 9 - quitar / quitar joystick con app ejecutandose
+	Si desconecto un joystick la aplicación no da error y sigue la votacion. 
+	Tampoco se recupera el control del joystick si este se vuelve a conectarse
